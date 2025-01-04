@@ -13,8 +13,10 @@ Machine Learning Neural Network Model using Perceptron algorithm for Classificat
 
 ## Documentation
 
-[Dataset](images/img1.PNG)
+[Dataset](dataset/origin_data.csv)
 
-[Evaluation Model with CM](images/img2.PNG)
+![App ScreenShoot](images/img1.PNG)
 
-[Evaluation Model with Precission, Recall and F1 Score](images/img3.PNG)
+![App ScreenShoot](images/img2.PNG)
+
+![App ScreenShoot](images/img3.PNG)
